@@ -1,1 +1,1 @@
-# Bimidu
+# Hi ! My name is Bimidu Gunathilake
