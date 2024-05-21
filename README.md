@@ -1,2 +1,2 @@
-# Hi ! My name is Bimidu Gunathilake
-![Alt text](./files/Dark Blue and white Bright Modern General Linkedin Article Cover Image.png)
+![Cover page](./files/cover.png)
+https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat
